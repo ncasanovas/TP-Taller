@@ -1,0 +1,184 @@
+{
+  "tituloPagina": "Nmdb",
+  "subtitulo": "Natalia's Movie Database",
+  "creado": 2019,
+  "imagen": "https://abkaabi.com/uploads/8f5d913be53d31a763a0b3db0d512844.jpg",
+  "peliculas": [
+      {
+        "titulo": "Trainspotting",
+        "anio": "1996",
+        "duracion": "1h 33min",
+        "genero": "Drama",
+        "director": "Danny Boyle",
+        "actores": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+        "trama": "Renton, profundamente inmerso en la escena de las drogas de Edimburgo, trata de limpiarse y salir, a pesar del atractivo de las drogas y la influencia de los amigos.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "imdbRating": "8.1"
+      },
+      {
+        "titulo": "Back To The Future",
+        "anio": "1985",
+        "duracion": "1h 56min",
+        "genero": "Aventura",
+        "director": "Robert Zemeckis",
+        "actores": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+        "trama": "Marty McFly, un estudiante de secundaria de 17 años, es enviado accidentalmente treinta años al pasado en un viaje en el tiempo a través del DeLorean inventado por su amigo cercano, el científico inconformista Doc Brown.",
+        "poster": "https://cdn.gbposters.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/p/fp4811-back-to-the-future-one-sheet.jpg",
+        "imdbRating": "8.5"
+      },
+      {
+        "titulo": "Back To The Future Part II",
+        "anio": "1989",
+        "duracion": "1h 48min",
+        "genero": "Aventura",
+        "director": "Robert Zemeckis",
+        "actores": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+        "trama": "Después de visitar 2015, Marty McFly debe repetir su visita a 1955 para evitar cambios desastrosos en 1985 ... sin interferir con su primer viaje.",
+        "poster": "https://http2.mlstatic.com/poster-back-to-the-future-ii-volver-al-futuro-2-D_NQ_NP_804732-MLA27649753955_062018-F.jpg",
+        "imdbRating": "7.8"
+      },
+      {
+        "titulo": "Amadeus",
+        "anio": "1984",
+        "duracion": "2h 40min",
+        "genero": "Drama",
+        "director": "Milos Forman",
+        "actores": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge",
+        "trama": "La vida, el éxito y los problemas de Wolfgang Amadeus Mozart, tal como lo contó Antonio Salieri, el compositor contemporáneo que estaba locamente celoso del talento de Mozart y afirmó haberlo asesinado.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "imdbRating": "8.3"
+      },
+      {
+        "titulo": "Angel Heart",
+        "anio": "1987",
+        "duracion": "1h 53min",
+        "genero": "Thriller",
+        "director": "Alan Parker",
+        "actores": "Mickey Rourke, Robert De Niro, Lisa Bonet",
+        "trama": "Un investigador privado es contratado por un hombre que se hace llamar Louis Cyphre para localizar a un cantante llamado Johnny Favourite. Pero la investigación toma un giro inesperado y sombrío.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3Mzg3YjgtNTA1Zi00ODgyLTkyZGUtYTE5NDA5ZmI4NjI1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+        "imdbRating": "7.3"
+      },
+      {
+        "titulo": "After Hours",
+        "anio": "1987",
+        "duracion": "1h 37min",
+        "genero": "Comedia",
+        "director": "Martin Scorsese",
+        "actores": "Griffin Dunne, Rosanna Arquette, Verna Bloom",
+        "trama": "Un hombre ordinario, cuyo trabajo es procesar textos, tiene la peor noche de su vida después de que acepta visitar a una chica en Soho a quien conoció esa noche en una cafetería.",
+        "poster": "https://i.pinimg.com/originals/d6/34/4b/d6344be87f662bcc354c6028929c3c2d.jpg",
+        "imdbRating": "7.7"
+      },
+      {
+        "titulo": "Blue Ruin",
+        "anio": "2013",
+        "duracion": "1h 30min",
+        "genero": "Thriller",
+        "director": "Jeremy Saulnier",
+        "actores": "Macon Blair, Devin Ratray, Amy Hargreaves",
+        "trama": "La vida tranquila de un misterioso extraño se da vuelta cuando regresa a la casa de su infancia para llevar a cabo un acto de venganza. Demostrando ser un asesino aficionado, termina en una lucha brutal para proteger a su familia separada.",
+        "poster": "http://3.bp.blogspot.com/-fjSvz-lG2sE/Ut6Hbw-7rlI/AAAAAAAANTk/DC2fj2fgvgs/s1600/blue-ruin-poster.jpg",
+        "imdbRating": "7.1"
+      },
+      {
+        "titulo": "Mean Girls",
+        "anio": "2004",
+        "duracion": "1h 37min",
+        "genero": "Comedia",
+        "director": "Mark Waters",
+        "actores": "Lindsay Lohan, Jonathan Bennett, Rachel McAdams",
+        "trama": "Cady Heron es un éxito con 'Las Plásticas', las chicas populares en su nueva escuela, hasta que comete el error de enamorarse de Aaron Samuels, el ex novio de Regina George.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThkNWRmOTYtMjFiMy00ODA4LThlODgtNGVjYzQ4YjM0NDc5XkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+        "imdbRating": "7.0"
+      },
+      {
+        "titulo": "Deconstructing Harry",
+        "anio": "1997",
+        "duracion": "1h 36min",
+        "genero": "Comedia",
+        "director": "Woody Allen",
+        "actores": "Woody Allen, Judy Davis, Julia Louis-Dreyfus",
+        "trama": "Sufriendo del bloqueo del escritor y esperando ansiosamente su premio de escritura, Harry Block recuerda los eventos de su pasado y las escenas de sus libros más vendidos cuando los personajes, reales y ficticios, regresan para perseguirlo.",
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/813xy0FYOlL._SL1456_.jpg",
+        "imdbRating": "7.4"
+      },
+      {
+        "titulo": "Rosemary's Baby",
+        "anio": "1968",
+        "duracion": "2h 17min",
+        "genero": "Thriller",
+        "director": "Roman Polansky",
+        "actores": "Mia Farrow, John Cassavetes, Ruth Gordon",
+        "trama": "Una joven pareja se muda a un departamento solo para estar rodeada de vecinos y acontecimientos peculiares. Cuando la esposa queda misteriosamente embarazada, la paranoia por la seguridad de su hijo no nacido comienza a controlar su vida.",
+        "poster": "https://cdn.shopify.com/s/files/1/1057/4964/products/rosemarys-baby-vintage-movie-poster-original-french-mini-16x23-5835.jpg?v=1534411966",
+        "imdbRating": "8.0"
+      },
+      {
+        "titulo": "Jurassic Park",
+        "anio": "1993",
+        "duracion": "2h 7min",
+        "genero": "Aventura",
+        "director": "Steven Spielberg",
+        "actores": "Sam Neill, Laura Dern, Jeff Goldblum",
+        "trama": "Un paleontólogo pragmático que visita un parque temático casi completo tiene la tarea de proteger a un par de niños después de que un corte de energía hace que los dinosaurios clonados del parque se suelten.",
+        "poster": "https://cdn.shopify.com/s/files/1/1057/4964/products/jurassic-park-vintage-movie-poster-original-1-sheet-27x41-75.jpg?v=1535856490",
+        "imdbRating": "8.1"
+      },
+      {
+        "titulo": "Jaws",
+        "anio": "1975",
+        "duracion": "2h 4min",
+        "genero": "Aventura",
+        "director": "Steven Spielberg",
+        "actores": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+        "trama": "Cuando un tiburón asesino desata el caos en una comunidad de playa, depende de un sheriff local, un biólogo marino y un viejo marino para cazar a la bestia.",
+        "poster": "https://d1w8cc2yygc27j.cloudfront.net/-6336396550429091649/7404678171826053675.jpg",
+        "imdbRating": "8.0"
+      },
+      {
+        "titulo": "Twin Peaks: Fire Walk with Me",
+        "anio": "1992",
+        "duracion": "2h 14min",
+        "genero": "Drama",
+        "director": "David Lynch",
+        "actores": "Sheryl Lee, Ray Wise, Mädchen Amick",
+        "trama": "Los terribles días finales de Laura Palmer se registran un año después del asesinato de Teresa Banks, residente de la ciudad vecina de Twin Peaks.",
+        "poster": "https://http2.mlstatic.com/cuadros-twin-peaks-fire-walk-with-me-lona-50x60-poster-D_NQ_NP_211515-MLA25248136894_122016-F.jpg",
+        "imdbRating": "7.3"
+      },
+      {
+        "titulo": "Black Swan",
+        "anio": "2010",
+        "duracion": "1h 48min",
+        "genero": "Thriller",
+        "director": "Darren Aronofsky",
+        "actores": "Natalie Portman, Mila Kunis, Vincent Cassel",
+        "trama": "Una bailarina comprometida lucha por mantener su cordura después de ganar el papel principal en una producción del 'Lago de los cisnes' de Tchaikovsky.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
+        "imdbRating": "8.0"
+      },
+      {
+        "titulo": "Clueless",
+        "anio": "1995",
+        "duracion": "1h 37min",
+        "genero": "Comedia",
+        "director": "Amy Heckerling",
+        "actores": "Alicia Silverstone, Stacey Dash, Brittany Murphy",
+        "trama": "Una estudiante de secundaria rica trata de aumentar la popularidad de una nueva alumna, pero reconoce que los asuntos del corazón se interponen en el camino.",
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/817URAFXkoL._SL1500_.jpg",
+        "imdbRating": "6.8"
+      },
+      {
+        "titulo": "Taxi Driver",
+        "anio": "1976",
+        "duracion": "1h 54min",
+        "genero": "Drama",
+        "director": "Martin Scorsese",
+        "actores": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+        "trama": "Un veterano mentalmente inestable trabaja como taxista nocturno en la ciudad de Nueva York, donde la decadencia y la sordidez percibidas alimentan su impulso de acción violenta al intentar liberar a un trabajador de campaña presidencial y una prostituta menor de edad.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "imdbRating": "8.3"
+      }
+   ]
+}
